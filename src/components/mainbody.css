@@ -1,0 +1,24 @@
+.leftSide, .rightSide {
+    height:50vh;
+    width: 100%;
+
+}
+
+.leftSide {
+background: rgb(97, 56, 56);    
+}
+
+.rightSide {
+    background: rgb(43, 43, 109);
+}
+
+
+
+
+
+
+
+
+
+
+
